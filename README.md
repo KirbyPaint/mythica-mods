@@ -180,14 +180,14 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
   AI Improvements
   Server-side:  
-  Client-side:   no (but possible)
+  Client-side: no   (but possible)
   Source: <https://github.com/BuiltBrokenModding/AI-Improvements>  
 
 ### Optimization
 
   RoadRunner
   Server-side:  
-  Client-side:   no
+  Client-side: no  
   Source: <https://github.com/MaxNeedsSnacks/roadrunner>  
   Notes: Unofficial fork of Fabric's "Lithium"
 
@@ -208,7 +208,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Sulfuric
 
   Server-side:  
-  Client-side:   no (optional)
+  Client-side: no   (optional)
   Source: <https://github.com/Someone-Else-Was-Taken/Periodic-Table-Reforged>  
 
 </details>
@@ -284,7 +284,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Terraforged
 
   Server-side:  
-  Client-side:   no ?
+  Client-side: no   ?
   Source: <https://github.com/TerraForged/TerraForged>  
 
 ### Awesome Dungeon
@@ -651,7 +651,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Better Third Person
 
-  Server-side:   no
+  Server-side: no  
   Client-side:   yes
   Source:  <https://www.curseforge.com/minecraft/mc-mods/better-third-person>  
 
@@ -687,7 +687,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Dynamic Surroundings
 
-  Server-side:   no
+  Server-side: no  
   Client-side:  
   Source: <https://github.com/OreCruncher/DynamicSurroundings>  
 
@@ -701,19 +701,19 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Falling Tree
 
   Server-side:  
-  Client-side:   no (unless using the change speed feature and/or enchants)
+  Client-side: no   (unless using the change speed feature and/or enchants)
   Source: <https://github.com/Rakambda/FallingTree>  
 
 ### FastFurnace
 
   Server-side:  
-  Client-side:   no (not required at least)
+  Client-side: no   (not required at least)
   Source: <https://github.com/Shadows-of-Fire/FastFurnace>  
 
 ### FastSuite
 
   Server-side:  
-  Client-side:   no maybe?
+  Client-side: no   maybe?
   Source: <https://github.com/Shadows-of-Fire/FastSuite>  
   Notes: "This mod does not replace FastWorkbench or FastFurnace, though their benefits will be lessened if this is installed, as some of the work will be offloaded to FastSuite.  To receive maximum performance with regards to recipes, I still advise having both of them installed, but if you had to pick just one, it should be FastSuite over either of the others."
 
@@ -738,13 +738,13 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Regen Control
 
   Server-side:  
-  Client-side:   no
+  Client-side: no  
   Source: <https://www.curseforge.com/minecraft/mc-mods/regen-controll>  
 
 ### Balanced Enchanting
 
   Server-side:  
-  Client-side:   no ? mod authors says Server-side "i think"
+  Client-side: no   ? mod authors says Server-side "i think"
   Source: <https://github.com/Tfarcenim/BalancedEnchanting>  
 
 ### Better Leveling
@@ -769,18 +769,18 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Dusk
 
   Server-side:  
-  Client-side:   no
+  Client-side: no  
   Source: <https://www.curseforge.com/minecraft/mc-mods/dusk>  
 
 ### Magnesium/Rubidium Dynamic Lights
 
-  Server-side:   no
+  Server-side: no  
   Client-side:  
   Source: <https://github.com/anthxnymc/DynamicLightsReforged>  
 
 ### Enchanted Book Redesign
 
-  Server-side:   no
+  Server-side: no  
   Client-side:  
   Source: <https://github.com/Tfarcenim/Enchanted-Book-Redesign>  
 
@@ -799,7 +799,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Just Enough Items (JEI)
 
-  Server-side:   no, with some features disabled (deleting items, cheating in huge items, move to crafting area)
+  Server-side: no  , with some features disabled (deleting items, cheating in huge items, move to crafting area)
   Client-side:  
   Source: <https://github.com/mezz/JustEnoughItems>  
 
@@ -811,7 +811,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Overloaded Armor Bar
 
-  Server-side:   no
+  Server-side: no  
   Client-side:  
   Source: <https://github.com/Tfarcenim/OverloadedArmorBar>  
 
