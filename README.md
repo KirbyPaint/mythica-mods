@@ -5,7 +5,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ## Libraries/APIs
 
 <details open>
-<summary> Mods that don't add anything by themselves, but are required by other mods: </summary>
+<summary> Libraries & APIs: </summary>
 
 ### AutoRegLib
 
@@ -176,14 +176,11 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 <details open>
 <summary> Mods that are intended to improve performance: </summary>
 
-### AI
+### AI Improvements
 
-  AI Improvements
   Server-side:  
-  Client-side: no   (but possible)
+  Client-side: no (still allowed)  
   Source: <https://github.com/BuiltBrokenModding/AI-Improvements>  
-
-### Optimization
 
 ### RoadRunner
 
