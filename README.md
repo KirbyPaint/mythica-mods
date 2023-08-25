@@ -185,7 +185,8 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Optimization
 
-  RoadRunner
+### RoadRunner
+
   Server-side:  
   Client-side: no  
   Source: <https://github.com/MaxNeedsSnacks/roadrunner>  
@@ -200,7 +201,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Smooth Boot
 
-  Server-side:   possibly no?
+  Server-side: possibly no?  
   Client-side:  
   Source: <https://github.com/UltimateBoomer/mc-smoothboot>  
   Notes: Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems.
@@ -284,7 +285,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Terraforged
 
   Server-side:  
-  Client-side: no   ?
+  Client-side: no?  
   Source: <https://github.com/TerraForged/TerraForged>  
 
 ### Awesome Dungeon
@@ -652,7 +653,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Better Third Person
 
   Server-side: no  
-  Client-side:   yes
+  Client-side: yes  
   Source:  <https://www.curseforge.com/minecraft/mc-mods/better-third-person>  
 
 ### Bountiful
@@ -669,14 +670,14 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Cosmetic Armor Reworked
 
-  Server-side:   yes
-  Client-side:   yes to both if playing multiplayer
+  Server-side: yes  
+  Client-side: yes to both if playing multiplayer  
   Source: <https://github.com/zlainsama/CosmeticArmorReworked>  
 
 ### Craftable Horse Armor + Saddle
 
   Server-side:  
-  Client-side:   possibly no?
+  Client-side: possibly no?  
   Source: <https://github.com/EwyBoy/CHA-S>  
 
 ### Curios Armor Stands
@@ -696,36 +697,36 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Server-side:  
   Client-side:  
   Source: <https://github.com/Meldexun/EnchantingConvergence>  
-  Notes: Apparently dead mod, people look to <https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge>   as a replacement
+  Notes: Apparently dead mod, people look to <https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge> as a replacement
 
 ### Falling Tree
 
   Server-side:  
-  Client-side: no   (unless using the change speed feature and/or enchants)
+  Client-side: no (unless using the change speed feature and/or enchants)  
   Source: <https://github.com/Rakambda/FallingTree>  
 
 ### FastFurnace
 
   Server-side:  
-  Client-side: no   (not required at least)
+  Client-side: no (not required at least)  
   Source: <https://github.com/Shadows-of-Fire/FastFurnace>  
 
 ### FastSuite
 
   Server-side:  
-  Client-side: no   maybe?
+  Client-side: maybe?  
   Source: <https://github.com/Shadows-of-Fire/FastSuite>  
   Notes: "This mod does not replace FastWorkbench or FastFurnace, though their benefits will be lessened if this is installed, as some of the work will be offloaded to FastSuite.  To receive maximum performance with regards to recipes, I still advise having both of them installed, but if you had to pick just one, it should be FastSuite over either of the others."
 
 ### FastWorkbench
 
   Server-side:  
-  Client-side:   yes this is required on both sides
+  Client-side: yes this is required on both sides  
   Source: <https://github.com/Shadows-of-Fire/FastWorkbench>  
 
 ### Inventory HUD+
 
-  Server-side:   look into this?
+  Server-side: look into this?  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge>  
 
@@ -744,7 +745,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Balanced Enchanting
 
   Server-side:  
-  Client-side: no   ? mod authors says Server-side "i think"
+  Client-side: no? mod authors says Server-side "i think"  
   Source: <https://github.com/Tfarcenim/BalancedEnchanting>  
 
 ### Better Leveling
@@ -755,7 +756,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Configured
 
-  Server-side:   possibly no?
+  Server-side: possibly no?  
   Client-side:  
   Source: <https://github.com/MrCrayfish/Configured>  
   Notes: changes mod configurations in GUI
@@ -799,7 +800,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### Just Enough Items (JEI)
 
-  Server-side: no  , with some features disabled (deleting items, cheating in huge items, move to crafting area)
+  Server-side: no, with some features disabled (deleting items, cheating in huge items, move to crafting area)
   Client-side:  
   Source: <https://github.com/mezz/JustEnoughItems>  
 
