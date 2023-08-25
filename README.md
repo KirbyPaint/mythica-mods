@@ -4,6 +4,9 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ## Libraries/APIs
 
+<details open>
+<summary> Mods that don't add anything by themselves, but are required by other mods: </summary>
+
 ### AutoRegLib
 
   Server-side:  
@@ -58,64 +61,75 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Source: <https://github.com/shedaniel/cloth-config>  
   Notes: Cloth Config API is a config screen api.
 
-  Citadel
+### Citadel
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/AlexModGuy/Citadel>  
   Notes: Citadel is a Library mod required for advanced animations and entity properties in 1.14 and beyond.
 
-  CoFH Core
+### CoFH Core
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/cofh-core>
 
-  Collective
+### Collective
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Collective>  
   Notes: Collective is a shared library mod with common code for all of Serilum's mods.
 
-  Curios API
+### Curios API
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/TheIllusiveC4/Curios>  
   Notes: Curios is a flexible and expandable accessory/equipment API for users and developers.
 
-  ExpandAbility
+### ExpandAbility
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/florensie/ExpandAbility>
 
-  ForgedFabric API
+### ForgedFabric API
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/LukeGrahamLandry/ForgedFabric>  
   Notes: projects using this: BetterCombat, CombatRoll, PowerScale
 
-  GeckoLib
+### GeckoLib
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/bernie-g/geckolib>  
   Notes: an animation engine for Minecraft Mods, with support for complex 3D keyframe-based animations, 30+ easings, concurrent animation support, sound and particle keyframes, event keyframes, and more.
 
-  iChunUtil
+### iChunUtil
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/iChun/iChunUtil>  
   Notes: Shared library used by iChun's mods. If an iChun mod's version does not start with 1.x.x, it probably needs this.
 
-  Kotlin for Forge
+### Kotlin for Forge
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/thedarkcolour/KotlinForForge>  
   Notes: Used to make mods with the Kotlin programming language. If you're not a mod developer, this is a dependency mod.
 
-  Library Ferret - Forge
+### Library Ferret - Forge
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/library-ferret-forge>  
 
-  Magnesium
+### Magnesium
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Someone-Else-Was-Taken/Magnesium>  
@@ -123,572 +137,692 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   This Mod is NOT and never will be compatible with Optifine or Halogen.
   Possible alternative - Rubidium: <https://www.curseforge.com/minecraft/mc-mods/rubidium>  
 
-  Magnesium/Rubidium Extras
+### Magnesium/Rubidium Extras
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/anthxnymc/MagnesiumExtras>  
 
-  playerAnimator
+### playerAnimator
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/KosmX/minecraftPlayerAnimator>  
 
-  StructureGel API
+### StructureGel API
+
   Server-side:  
   Client-side:  
   Source: <https://gitlab.com/modding-legacy/structure-gel-api>  
   Notes: Structure Gel is an API mod designed to make creating structures easier on the developers, specifically ones using the jigsaw system.
 
-  Structurize
+### Structurize
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ldtteam/structurize>  
   Notes: MineColonies API
 
-  Valhelsia Core
+### Valhelsia Core
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/valhelsia-core>  
   Notes: API for Valhelsia Structures
+</details>
 
 ## Performance Enhancements
 
- AI
+<details open>
+<summary> Mods that are intended to improve performance: </summary>
+
+### AI
+
   AI Improvements
   Server-side:  
   Client-side:   no (but possible)
   Source: <https://github.com/BuiltBrokenModding/AI-Improvements>  
 
- Optimization
+### Optimization
+
   RoadRunner
   Server-side:  
   Client-side:   no
   Source: <https://github.com/MaxNeedsSnacks/roadrunner>  
   Notes: Unofficial fork of Fabric's "Lithium"
 
-  DataFixerSlayer
+### DataFixerSlayer
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/VazkiiModsArchive/DataFixerSlayer>  
   Notes: Mod no longer in development, repository is public archive
 
-  Smooth Boot
+### Smooth Boot
+
   Server-side:   possibly no?
   Client-side:  
   Source: <https://github.com/UltimateBoomer/mc-smoothboot>  
   Notes: Optimize Minecraft loading performance to be smoother on low end systems and scale better on high end systems.
 
-  Sulfuric
+### Sulfuric
+
   Server-side:  
   Client-side:   no (optional)
   Source: <https://github.com/Someone-Else-Was-Taken/Periodic-Table-Reforged>  
 
+</details>
+
 ## Game Enhancements
 
- World Generation
-  YUNG's Better Caves
+### World Generation
+
+### YUNG's Better Caves
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Better-Caves>  
 
-  YUNG's Better Dungeons
+### YUNG's Better Dungeons
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Better-Dungeons>  
 
-  YUNG's Better Mineshafts
+### YUNG's Better Mineshafts
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Better-Mineshafts>  
 
-  YUNG's Better Portals
+### YUNG's Better Portals
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Better-Portals>  
 
-  YUNG's Better Strongholds
+### YUNG's Better Strongholds
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Better-Strongholds>  
 
-  YUNG's Bridges
+### YUNG's Bridges
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Bridges>  
 
-  YUNG's Extras
+### YUNG's Extras
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/YUNG-GANG/YUNGs-Extras>  
 
-  Biomes O' Plenty
+### Biomes O' Plenty
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Glitchfiend/BiomesOPlenty>  
   Notes: For 1.15/1.16/1.17, the level-type setting in server.properties must be set to biomesoplenty (level-type can be added manually if it does not appear by default).
   The only active branches are 1.19.x
 
-  Dungeon Crawl
+### Dungeon Crawl
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/XYROC/DungeonCrawl>  
   Notes: There is a bug in Minecraft 1.16 that can cause substantial FPS drops when spawners of certain mobs, including endermen, are rendered. Spawner Bug Fix fixes that issue: <https://github.com/Lupicus/SpawnerFix>  
   We should possibly get SpawnerBugFix
 
-  The-Outer-End
+### The-Outer-End
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/BlueDuckYT/The-Outer-End>  
 
-  Terraforged
+### Terraforged
+
   Server-side:  
   Client-side:   no ?
   Source: <https://github.com/TerraForged/TerraForged>  
 
-  Awesome Dungeon
+### Awesome Dungeon
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-forge>  
   Notes: This mod adds the massive jungle trees
 
-  Awesome Dungeon Nether
+### Awesome Dungeon Nether
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-nether-forge>  
 
-  Awesome Dungeon The End
+### Awesome Dungeon The End
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-the-end-forge>  
 
-  Awesome Dungeon Ocean
+### Awesome Dungeon Ocean
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/awesome-dungeon-edition-ocean-forge>  
 
-  BetterNether Reforged
+### BetterNether Reforged
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Someone-Else-Was-Taken/BetterNether-Reforged>  
 
-  Better Villages
+### Better Villages
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/better-village-forge>  
 
-  Dungeons Enhanced
+### Dungeons Enhanced
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/BarionLP/DungeonsEnhanced>  
 
-  Dungeons Plus
+### Dungeons Plus
+
   Server-side:  
   Client-side:  
   Source: <https://gitlab.com/modding-legacy/dungeons-plus>  
 
-  Project Vibrant Journeys
+### Project Vibrant Journeys
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/OrderedChaos-Dev/ProjectVibrantJourneys>  
 
-  Repurposed Structures
+### Repurposed Structures
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/TelepathicGrunt/RepurposedStructures>  
 
-  Towers of the Wild
+### Towers of the Wild
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Idrae/Towers_Of_The_Wild-1.16.3>  
 
-  Towers of the Wild: Additions
+### Towers of the Wild: Additions
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Aureljz/Towers-of-the-Wild-Additions>  
 
-  Upgrade Aquatic
+### Upgrade Aquatic
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/team-abnormals/upgrade-aquatic>  
 
-  Valhelsia Structures
+### Valhelsia Structures
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ValhelsiaTeam/Valhelsia-Structures>  
 
- New Items Only
-  Artifacts
+### New Items Only
+
+### Artifacts
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ochotonida/artifacts>  
 
-  Bountiful Baubles
+### Bountiful Baubles
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/CursedFlames/BountifulBaubles>  
 
-  Emerald & Obsidian Mod (Remake)
+### Emerald & Obsidian Mod (Remake)
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/emerald-obsidian-mod-remake>  
 
-  Paragliders
+### Paragliders
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Tictim/Paraglider>  
 
-  Rings Of Ascension
+### Rings Of Ascension
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Focamacho/RingsOfAscension>  
 
-  Spartan Shields
+### Spartan Shields
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/spartan-shields>  
 
-  Spartan Weaponry
+### Spartan Weaponry
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry>  
 
-  Storage Drawers
+### Storage Drawers
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/jaquadro/StorageDrawers>  
 
-  Upgradeable Armors & Tools
+### Upgradeable Armors & Tools
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/upgradeable-armors>  
 
-  Waystones
+### Waystones
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/TwelveIterationMods/Waystones>  
 
-  Archer's Paradox
+### Archer's Paradox
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/archers-paradox>  
 
-  Backpacked
+### Backpacked
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/MrCrayfish/Backpacked>  
 
-  MrCrayfish's Furniture Mod
+### MrCrayfish's Furniture Mod
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/MrCrayfish/MrCrayfishFurnitureMod>  
 
-  Curio of Undying
+### Curio of Undying
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/illusivesoulworks/charmofundying>  
 
-  Ice and Fire: Dragonseeker
+### Ice and Fire: Dragonseeker
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Syrikal/Dragonseeker>  
 
-  Dungeons Gear
+### Dungeons Gear
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Infamous-Misadventures/Dungeons-Gear>  
 
-  Dungeons Libraries
+### Dungeons Libraries
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Infamous-Misadventures/Dungeons-Libraries>  
 
-  Dungeons Mobs
+### Dungeons Mobs
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Infamous-Misadventures/Dungeons-Mobs>  
 
-  Immersive Armors
+### Immersive Armors
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Luke100000/ImmersiveArmors>  
   Notes: Incompatible with Epic Fight mod
 
-  MrCrayfish's More Furniture Mod
+### MrCrayfish's More Furniture Mod
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/MrCrayfish/MrCrayfishMoreFurnitureMod>  
 
-  Netherite Horse Armor
+### Netherite Horse Armor
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/louiecai/Netherite-Horse-Armor-Mod>  
 
-  Pam's HarvestCraft 2 - Food Core
+### Pam's HarvestCraft 2 - Food Core
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/MatrexsVigil/phc2foodcore-1.16.3>  
 
-  Pam's HarvestCraft 2 - Crops
+### Pam's HarvestCraft 2 - Crops
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/MatrexsVigil/phc2crops>  
 
-  Refined Pipes
+### Refined Pipes
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/refinedmods/refinedpipes>  
 
- New Entities & Items
-  Aquaculture
+### New Entities & Items
+
+### Aquaculture
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/TeamMetallurgy/Aquaculture>  
 
-  Chicken Chunks
+### Chicken Chunks
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/TheCBProject/ChickenChunks>  
 
-  Quark
+### Quark
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/VazkiiMods/Quark>  
 
-  Alex's Mobs
+### Alex's Mobs
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/AlexModGuy/AlexsMobs>  
 
-  Better Animals Plus
+### Better Animals Plus
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/itsmeow/betteranimalsplus>  
 
-  Ice and Fire: Dragons
+### Ice and Fire: Dragons
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons>  
 
-  Mana and Artifice
+### Mana and Artifice
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/mana-and-artifice>  
 
-  MineColonies
+### MineColonies
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ldtteam/MineColonies>  
 
-  Mowzie's Mobs
+### Mowzie's Mobs
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/BobMowzie/MowziesMobs>  
 
-  The Ocean Expansion
+### The Ocean Expansion
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/the-ocean-expansion>  
 
- New Entities Only
-  Mutant Beasts
+### New Entities Only
+
+### Mutant Beasts
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Chumbanotz/MutantBeasts>  
 
-  Kobolds!
+### Kobolds
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Jusey1/kobolds>  
 
-  GuardsCraft
+### GuardsCraft
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/guardscraft>  
 
-  Minecraft Comes Alive
+### Minecraft Comes Alive
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/WildBamaBoy/minecraft-comes-alive>  
 
-  Old Mutant More
+### Old Mutant More
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/mutant-more>  
 
-  Spiders 2.0
+### Spiders 2.0
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/TheCyberBrick/Spiders-2.0>  
 
- Combat
-  Better PvP
+### Combat
+
+### Better PvP
+
   Server-side:  
   Client-side:  
   Source: <https://chocolateminecraft.com/betterpvp2.php>  
 
-  Dungeons Mod
+### Dungeons Mod
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/dungeons-mod>  
   Notes: adds bosses as well as generates dungeons (and is someone's first mod)
 
-  Goblins and Dungeons
+### Goblins and Dungeons
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/superlord9362/GoblinsAndDungeons>  
 
-  Better Combat
+### Better Combat
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ZsoltMolnarrr/BetterCombat>  
   Notes: Not actually supported for 1.16.5
 
- QOL
-  Better Third Person
+### QOL
+
+### Better Third Person
+
   Server-side:   no
   Client-side:   yes
   Source:  <https://www.curseforge.com/minecraft/mc-mods/better-third-person>  
 
-  Bountiful
+### Bountiful
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ejektaflex/Bountiful>  
 
-  Bow Infinity Fix
+### Bow Infinity Fix
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Parker8283/BowInfinityFix>  
 
-  Cosmetic Armor Reworked
+### Cosmetic Armor Reworked
+
   Server-side:   yes
   Client-side:   yes to both if playing multiplayer
   Source: <https://github.com/zlainsama/CosmeticArmorReworked>  
 
-  Craftable Horse Armor + Saddle
+### Craftable Horse Armor + Saddle
+
   Server-side:  
   Client-side:   possibly no?
   Source: <https://github.com/EwyBoy/CHA-S>  
 
-  Curios Armor Stands
+### Curios Armor Stands
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ochotonida/curious-armor-stands>  
 
-  Dynamic Surroundings
+### Dynamic Surroundings
+
   Server-side:   no
   Client-side:  
   Source: <https://github.com/OreCruncher/DynamicSurroundings>  
 
-  Enchanting Convergence
+### Enchanting Convergence
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/Meldexun/EnchantingConvergence>  
   Notes: Apparently dead mod, people look to <https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge>   as a replacement
 
-  Falling Tree
+### Falling Tree
+
   Server-side:  
   Client-side:   no (unless using the change speed feature and/or enchants)
   Source: <https://github.com/Rakambda/FallingTree>  
 
-  FastFurnace
+### FastFurnace
+
   Server-side:  
   Client-side:   no (not required at least)
   Source: <https://github.com/Shadows-of-Fire/FastFurnace>  
 
-  FastSuite
+### FastSuite
+
   Server-side:  
   Client-side:   no maybe?
   Source: <https://github.com/Shadows-of-Fire/FastSuite>  
   Notes: "This mod does not replace FastWorkbench or FastFurnace, though their benefits will be lessened if this is installed, as some of the work will be offloaded to FastSuite.  To receive maximum performance with regards to recipes, I still advise having both of them installed, but if you had to pick just one, it should be FastSuite over either of the others."
 
-  FastWorkbench
+### FastWorkbench
+
   Server-side:  
   Client-side:   yes this is required on both sides
   Source: <https://github.com/Shadows-of-Fire/FastWorkbench>  
 
-  Inventory HUD+
+### Inventory HUD+
+
   Server-side:   look into this?
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge>  
 
-  Ore Excavation
+### Ore Excavation
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/ore-excavation>  
 
-  Regen Control
+### Regen Control
+
   Server-side:  
   Client-side:   no
   Source: <https://www.curseforge.com/minecraft/mc-mods/regen-controll>  
 
-  Balanced Enchanting
+### Balanced Enchanting
+
   Server-side:  
   Client-side:   no ? mod authors says Server-side "i think"
   Source: <https://github.com/Tfarcenim/BalancedEnchanting>  
 
-  Better Leveling
+### Better Leveling
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/darkorg69/better-leveling>  
 
-  Configured
+### Configured
+
   Server-side:   possibly no?
   Client-side:  
   Source: <https://github.com/MrCrayfish/Configured>  
   Notes: changes mod configurations in GUI
 
-  Elytra Slot
+### Elytra Slot
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/illusivesoulworks/elytraslot>  
 
-  Dusk
+### Dusk
+
   Server-side:  
   Client-side:   no
   Source: <https://www.curseforge.com/minecraft/mc-mods/dusk>  
 
-  Magnesium/Rubidium Dynamic Lights
+### Magnesium/Rubidium Dynamic Lights
+
   Server-side:   no
   Client-side:  
   Source: <https://github.com/anthxnymc/DynamicLightsReforged>  
 
-  Enchanted Book Redesign
+### Enchanted Book Redesign
+
   Server-side:   no
   Client-side:  
   Source: <https://github.com/Tfarcenim/Enchanted-Book-Redesign>  
 
-  Enchanted Celestials
+### Enchanted Celestials
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/CorgiTaco/Enhanced-Celestials>  
 
-  GraveStone Mod
+### GraveStone Mod
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/henkelmax/gravestone>  
   Notes: can disable the obituary in the config
 
-  Just Enough Items (JEI)
+### Just Enough Items (JEI)
+
   Server-side:   no, with some features disabled (deleting items, cheating in huge items, move to crafting area)
   Client-side:  
   Source: <https://github.com/mezz/JustEnoughItems>  
 
-  JourneyMap
+### JourneyMap
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/journeymap>  
 
-  Overloaded Armor Bar
+### Overloaded Armor Bar
+
   Server-side:   no
   Client-side:  
   Source: <https://github.com/Tfarcenim/OverloadedArmorBar>  
 
-  Shield Mechanics
+### Shield Mechanics
+
   Server-side:  
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/shield-mechanics>  
 
-  Stack Refill
+### Stack Refill
+
   Server-side:  
   Client-side:  
   Source: <https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Stack%20Refill>  
