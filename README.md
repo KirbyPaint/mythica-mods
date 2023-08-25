@@ -216,10 +216,8 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ## Game Enhancements
 
-### World Generation
-
 <details open>
-<summary> Mods that are intended to improve performance: </summary>
+<summary>World Generation: </summary>
 
 ### YUNG's Better Caves
 
@@ -377,7 +375,8 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Source: <https://github.com/ValhelsiaTeam/Valhelsia-Structures>  
 </details>
 
-### New Items Only
+<details open>
+<summary>New Items Only: </summary>
 
 ### Artifacts
 
@@ -523,8 +522,10 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Server-side:  
   Client-side:  
   Source: <https://github.com/refinedmods/refinedpipes>  
+</details>
 
-### New Entities & Items
+<details open>
+<summary>New Entities & Items: </summary>
 
 ### Aquaculture
 
@@ -586,7 +587,10 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Client-side:  
   Source: <https://www.curseforge.com/minecraft/mc-mods/the-ocean-expansion>  
 
-### New Entities Only
+</details>
+
+<details open>
+<summary>New Entities Only: </summary>
 
 ### Mutant Beasts
 
@@ -624,7 +628,10 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Client-side:  
   Source: <https://github.com/TheCyberBrick/Spiders-2.0>  
 
-### Combat
+</details>
+
+<details open>
+<summary>Combat: </summary>
 
 ### Better PvP
 
@@ -652,7 +659,10 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Source: <https://github.com/ZsoltMolnarrr/BetterCombat>  
   Notes: Not actually supported for 1.16.5
 
-### QOL
+</details>
+
+<details open>
+<summary>QOL: </summary>
 
 ### Better Third Person
 
@@ -831,3 +841,5 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Server-side:  
   Client-side:  
   Source: <https://github.com/ricksouth/serilum-mc-mod-sources/tree/main/sources/Stack%20Refill>  
+
+</details>
