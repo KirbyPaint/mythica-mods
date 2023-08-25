@@ -218,6 +218,9 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 
 ### World Generation
 
+<details open>
+<summary> Mods that are intended to improve performance: </summary>
+
 ### YUNG's Better Caves
 
   Server-side:  
@@ -372,6 +375,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
   Server-side:  
   Client-side:  
   Source: <https://github.com/ValhelsiaTeam/Valhelsia-Structures>  
+</details>
 
 ### New Items Only
 
