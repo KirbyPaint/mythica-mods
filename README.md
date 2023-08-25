@@ -206,7 +206,7 @@ All mods are assumed to be server & client-side unless specifically denoted othe
 ### Sulfuric
 
   Server-side:  
-  Client-side: no   (optional)
+  Client-side: no (optional)  
   Source: <https://github.com/Someone-Else-Was-Taken/Periodic-Table-Reforged>  
 
 </details>
